@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Md.Momenuzzaman Emon</h1>
-#### Web Developer
+<h3>Web Developer<h3>
 
 - 🔭 I’m currently working on JavaScript 
 - 🌱 I’m currently learning Web Development and Programming 
@@ -11,9 +11,7 @@
 - ⚡ Fun fact: when I've started 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdemon420&label=Profile%20views&color=0e75b6&style=flat" alt="mdemon420" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdemon420" alt="mdemon420" /></a> </p>
 
 - 🌱 I’m currently learning **Javascripts**
 
