@@ -6,7 +6,7 @@
 <h4>🔭 I’m currently working on JavaScript <h4>
 <h4> 👯 I’m looking to collaborate on [Github Readme Stats] <h4>
 <h4> 💬 Ask me about Anything <h4>
-<a href="mdmomenuzzamanemon@gmail.com"> 📫 How to reach me: mdmomenuzzamanemon@gmail.com <a> 
+📫 How to reach me: mdmomenuzzamanemon@gmail.com 
 <h4> ⚡ Fun fact: when I've started <h4>
 
 ### Hi there 👋, I am Md.Momenuzzaman Emon
@@ -18,7 +18,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 Skills: VUE JS / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
-- 📫 How to reach me: mdmomenuzzamanemon@gmail.com 
+
 
 
 
