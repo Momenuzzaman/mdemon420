@@ -7,6 +7,6 @@
 <h2> 🌱 I’m currently learning Web Development and Programming <h2> 
 <h2> 👯 I’m looking to collaborate on [Github Readme Stats] <h2>
 <h2> 💬 Ask me about Anything 
-<h2> 📫 How to reach me: mdmomenuzzamanemon@gmail.com <h2> 
+<a> 📫 How to reach me: mdmomenuzzamanemon@gmail.com <a> 
 <h2> ⚡ Fun fact: when I've started <h2>
 
