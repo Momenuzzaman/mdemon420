@@ -14,9 +14,6 @@
 - 💬 Ask me about Anything 
 - 📫 How to reach me: mdmomenuzzamanemon@gmail.com  
 - ⚡ Fun fact: When I've started 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdemon420&" alt="mdemon420" /></p>
-
 <br/>
 <br/>
 <br/>
