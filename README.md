@@ -34,6 +34,11 @@
     <a href="https://code.visualstudio.com/" target="_blank">     <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs code" width="40" height="40"/> </a>
  </P>
 
+ <p align="center">
+<a> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdraselmiah95&theme=dark&hide_border=true"/> </a>
+</p> 
+
+
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
