@@ -13,7 +13,7 @@
 
 <p align="center">**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**</p>  
 <p align="center">
-   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> </a> 
+  <!-- <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> </a>  -->
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>  
     <a href="https://nodejs.org/en/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/> </a>  
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/dusk/48/000000/react.png"/> </a>  
@@ -30,8 +30,8 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://github.com/mdemon420" target="_blank"> <img src="https://img.icons8.com/color/48/000000/github--v3.png"/></a> 
    <a href="https://code.visualstudio.com/" target="_blank">     <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs code" width="40" height="40"/> </a>
-     <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v2.png"/> </a>
-    <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://img.icons8.com/ultraviolet/40/000000/adobe-photoshop--v2.png"/> </a>
+   <!--  <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v2.png"/> </a> -->
+   <!-- <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://img.icons8.com/ultraviolet/40/000000/adobe-photoshop--v2.png"/> </a> -->
  </P>
 
  <p align="center">
