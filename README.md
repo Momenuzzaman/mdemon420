@@ -89,7 +89,7 @@
 	<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mdemon420&show_icons=true&theme=merko&hide_border=true" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=mdemon420&theme=merko&hide_border=true" />
-	<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdemon420i&langs_count=8&layout=compact&theme=merko">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdemon420&langs_count=8&layout=compact&theme=merko">
 </div>
 <br />
 
