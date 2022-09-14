@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning  Web Development and Programming  
 - 🔭 I’m currently working on JavaScript  
-- 👯 I’m looking to collaborate on  [Github Readme Stats] 
+- 👯 I’m looking to collaborate on  [Currently not collaborating] 
 - 💬 Ask me about Anything 
 - 📫 How to reach me: mdmomenuzzamanemon@gmail.com  
 - ⚡ Fun fact: When I've started 
