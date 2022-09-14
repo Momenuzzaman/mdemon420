@@ -64,7 +64,7 @@
 </details>
 <br>
 <!-- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=mdraselmiah95&theme=react-dark&hide_border=true&area=true) -->
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sayed-Oni)  
+
 <br/>
 <br/>
 <p align="center"> Show some ❤️ by starring ⭐ some of the repositories!</p>
@@ -72,6 +72,7 @@
 
 
 ![Profile views](https://gpvc.arturio.dev/mdemon420)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sayed-Oni)  
 
 
 
