@@ -67,7 +67,7 @@
 <br/>
 <p align="center"> Show some ❤️ by starring ⭐ some of the repositories!</p>
 <br>
-<a margin="10" href="https://graphql.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/graphql.svg" alt="graphql"></a>
+
 
 ![Profile views](https://gpvc.arturio.dev/mdemon420)  
 
