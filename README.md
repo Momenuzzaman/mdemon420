@@ -87,9 +87,9 @@
 <br>
 <div align="center">
 	<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mdemon420&show_icons=true&theme=react-dark&hide_border=true" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=mdemon420&theme=react-dark&hide_border=true" />
-	<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdemon420&langs_count=8&layout=compact&theme=react-dark">
+	<img width="50%" src="https://github-readme-stats.vercel.app/api?username=mdemon420&show_icons=true&theme=react-dark&hide_border=true" />
+	<img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=mdemon420&theme=react-dark&hide_border=true" />
+	<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdemon420&langs_count=8&layout=compact&theme=react-dark">
 </div>
 <br />
 
