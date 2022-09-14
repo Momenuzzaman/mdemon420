@@ -93,7 +93,7 @@
 
 <br>
 <div align="center">
-	<img width="50%" src="https://github-readme-stats.vercel.app/api?username=mdemon420&show_icons=true&theme=dark&hide_border=true" />
+	<img width="50%" src="https://github-readme-stats.vercel.app/api?username=mdemon420&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true" />
 	<img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=mdemon420&theme=dark&hide_border=true" />
 	<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdemon420&langs_count=8&layout=compact&theme=dark">
 </div>
