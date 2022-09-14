@@ -43,7 +43,7 @@
  </P>
 
  <p align="center">
-<a> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdemon420&theme=dark&hide_border=true"/> </a>
+<!-- <a> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdemon420&theme=dark&hide_border=true"/> </a> -->
 	<a><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mdemon420&theme=dark&hide_border=true" /><a/>
 </p> 
 
@@ -87,9 +87,9 @@
 
 <br>
 <div align="center">
-	<img width="50%" src="https://github-readme-stats.vercel.app/api?username=mdemon420&show_icons=true&theme=react-dark&hide_border=true" />
-	<img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=mdemon420&theme=react-dark&hide_border=true" />
-	<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdemon420&langs_count=8&layout=compact&theme=react-dark">
+<!-- 	<img width="50%" src="https://github-readme-stats.vercel.app/api?username=mdemon420&show_icons=true&theme=react-dark&hide_border=true" /> -->
+	<img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=mdemon420&theme=dark&hide_border=true" />
+	<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdemon420&langs_count=8&layout=compact&theme=dark">
 </div>
 <br />
 
