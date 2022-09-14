@@ -84,13 +84,12 @@
 
 ![Profile views](https://gpvc.arturio.dev/mdemon420?v=3)
 
-
-<div align="center">
+<br>
 	<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mdemon42&show_icons=true&theme=merko&hide_border=true" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=mdemon42&theme=merko&hide_border=true" />
 	<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdemon42&langs_count=8&layout=compact&theme=merko">
-</div>
+<br/>
 
 
 
