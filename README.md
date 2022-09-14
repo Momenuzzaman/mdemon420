@@ -65,11 +65,10 @@
 <br>
 <br/>
 <br/>
-
-  ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=mdemon420&theme=react-dark&hide_border=true&area=true)
-  ![Profile views](https://gpvc.arturio.dev/mdemon420)  
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=mdemon420&theme=react-dark&hide_border=true&area=true)
 <p align="center"> Show some ❤️ by starring ⭐ some of the repositories!</p>
 <br>
+ ![Profile views](https://gpvc.arturio.dev/mdemon420) 
 
 
 
