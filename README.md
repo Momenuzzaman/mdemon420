@@ -65,7 +65,7 @@
 	<img align="center" height="50%" width="48%" src="https://github-readme-stats.vercel.app/api?username=mdemon420&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true" />
 	<a/>
 	<a>
-<img align="center" height="50%" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdemon420&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true">
+<img align="center"  width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdemon420&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true">
 	<a/>
 </p>
 </details>
