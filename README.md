@@ -70,7 +70,6 @@
 </p>
 </details>
 <br>
-
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=mdemon420&theme=react-dark&hide_border=true&area=true)
 <br/>
  <!-- ![snake gif](https://github.com/mdraselmiah95/mdraselmiah95/blob/output/github-contribution-grid-snake.gif) -->
@@ -90,14 +89,6 @@
 </p> -->
 
 ![Profile views](https://gpvc.arturio.dev/mdemon420?v=3)
-
-<br>
-<div align="center">
-	<img width="50%" src="https://github-readme-stats.vercel.app/api?username=mdemon420&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true" />
-	<img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=mdemon420&theme=dark&hide_border=true" />
-	<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdemon420&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true">
-</div>
-<br />
 
 
 
