@@ -41,17 +41,20 @@
    <!--  <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v2.png"/> </a> -->
    <!-- <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://img.icons8.com/ultraviolet/40/000000/adobe-photoshop--v2.png"/> </a> -->
  </P>
-
+<summary>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
+</summary>
  <p align="center">
 <!-- <a> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdemon420&theme=dark&hide_border=true"/> </a> -->
 	<a><img align="center" width="90%"  height="50%" src="https://github-readme-streak-stats.herokuapp.com?user=mdemon420&theme=dark&hide_border=true" /><a/>
 </p> 
 
 <details open="">
-<summary>
+<!-- <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
   <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
-</summary>
+</summary> -->
 <br>
 
 <p align="center">
