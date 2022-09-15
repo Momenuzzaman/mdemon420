@@ -92,8 +92,8 @@
 
 ![Profile views](https://gpvc.arturio.dev/mdemon420?v=3)
 	<br>
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sayed-Oni&show_icons=true&theme=merko&hide_border=true" />
-	<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayed-Oni&langs_count=8&layout=compact&theme=merko">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mdemon420&show_icons=true&theme=dark&hide_border=true" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdemon420&langs_count=8&layout=compact&theme=dark">
 	<br/>
 
 
