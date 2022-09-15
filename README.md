@@ -44,7 +44,7 @@
 
  <p align="center">
 <!-- <a> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdemon420&theme=dark&hide_border=true"/> </a> -->
-	<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=mdemon420&theme=dark&hide_border=true" />
+	<img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=mdemon420&theme=dark&hide_border=true" />
 </p> 
 
 <details open="">
@@ -87,10 +87,7 @@
 </p> -->
 
 ![Profile views](https://gpvc.arturio.dev/mdemon420?v=3)
-	<br>
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mdemon420&show_icons=true&theme=dark&hide_border=true" />
-	<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdemon420&langs_count=8&layout=compact&theme=dark&hide_border=true">
-	<br/>
+
 
 
 
