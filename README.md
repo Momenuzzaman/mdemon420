@@ -93,6 +93,7 @@
 ![Profile views](https://gpvc.arturio.dev/mdemon420?v=3)
 	<br>
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mdemon420&show_icons=true&theme=merko&hide_border=true" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?username=mdemon420&theme=merko&hide_border=true" />
 	<br/>
 
 
