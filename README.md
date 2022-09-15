@@ -89,7 +89,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/mdemon420?v=3)
 
-<br />
+<!-- <br />
 
  <div align="center">
 	<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
@@ -99,7 +99,7 @@
 </div>
 <br /> 
 
-
+ -->
 
 
 
