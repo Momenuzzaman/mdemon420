@@ -44,7 +44,7 @@
 
  <p align="center">
 <!-- <a> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdemon420&theme=dark&hide_border=true"/> </a> -->
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Sayed-Oni&theme=merko&hide_border=true" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=mdemon420&theme=dark&hide_border=true" />
 </p> 
 
 <details open="">
